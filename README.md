@@ -7,15 +7,15 @@ It's a good idea to eventually go through `init.el` and the
 files under the `customizations` directory so that you know exactly
 what's going on.
 
-customizations/
-├── editing.el
-├── elisp-editing.el
-├── misc.el
-├── navigation.el
-├── setup-clojure.el
-├── setup-js.el
-├── shell-integration.el
-└── ui.el
+    customizations/
+    ├── editing.el
+    ├── elisp-editing.el
+    ├── misc.el
+    ├── navigation.el
+    ├── setup-clojure.el
+    ├── setup-js.el
+    ├── shell-integration.el
+    └── ui.el
 
 ## Supporting CSS, HTML, JS, etc.
 * [Customizes js-mode and html editing](https://github.com/flyingmachine/emacs.d/blob/master/customizations/setup-js.el)
