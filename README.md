@@ -18,7 +18,7 @@ what's going on.
     └── ui.el
 
 ## Supporting CSS, HTML, JS, etc.
-* [Customizes js-mode and html editing](https://github.com/flyingmachine/emacs.d/blob/master/customizations/setup-js.el)
+* Customizes js-mode and html editing
     * Sets indentation level to 2 spaces for JS
     * enables subword-mode so that M-f and M-b break on capitalization changes
     * Uses `tagedit` to give you paredit-like functionality when editing html
